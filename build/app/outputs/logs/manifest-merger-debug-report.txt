@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:1:1-39:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\79e1224469effc38b9a38c6be46c6775\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\05c2cacd58e99166fbc44b61bb7e974f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\b41617bd896433f5d272886f883414b2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\d732771d603d3cbcbc95b6980a087083\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\84c6105a2cdbc018f71b550cfd65eefc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\19f89db38064699c36a2e97d17a5f25b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\ccd26d321230bf36f0d953cd94b5a8f3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\e0fa1ccaf57d6c3deb3f6647b25265e1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\581febf912eaaf65a09efebfd77b0a56\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\44a63fbc8b84f452a62dbe3835f1a9f5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\9d8f0610b5fd36640077b389543cc6e4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\22c5ed957bfcf8693c6fb5aa0caf5fb0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\302c12901c8550f8290509ba74f379c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\46b8a73718f71f1e5ac3840bd78eb90f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\701e46c8a3c3df54dec865c4e9f9ad6f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\84056a963d5f1f7aac002a5106c22731\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\3669448f38d511f29d5a0669e54ce375\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\daaf0eeccfedda6fca4b3dc2db18a54b\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\d43b36c39c3c225513bb2de83ffa3094\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\406a3399ddcb3098764492c54402f717\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\e132cf6b587c1825c0a913c6060f4536\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\bf63a03cae1631f5633cc457fb4ae949\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\b329b459a413b1445bca4b9231df3d23\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:2:5-45
+		INJECTED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:15:5-38:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\22c5ed957bfcf8693c6fb5aa0caf5fb0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\22c5ed957bfcf8693c6fb5aa0caf5fb0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\daaf0eeccfedda6fca4b3dc2db18a54b\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\daaf0eeccfedda6fca4b3dc2db18a54b\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\22c5ed957bfcf8693c6fb5aa0caf5fb0\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:17:9-43
+	android:icon
+		ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:16:9-57
+activity#com.juanito21.simplersaexample.MainActivity
+ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\79e1224469effc38b9a38c6be46c6775\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\79e1224469effc38b9a38c6be46c6775\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\05c2cacd58e99166fbc44b61bb7e974f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\05c2cacd58e99166fbc44b61bb7e974f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\b41617bd896433f5d272886f883414b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\b41617bd896433f5d272886f883414b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\d732771d603d3cbcbc95b6980a087083\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\d732771d603d3cbcbc95b6980a087083\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\84c6105a2cdbc018f71b550cfd65eefc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\84c6105a2cdbc018f71b550cfd65eefc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\19f89db38064699c36a2e97d17a5f25b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\19f89db38064699c36a2e97d17a5f25b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\ccd26d321230bf36f0d953cd94b5a8f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\ccd26d321230bf36f0d953cd94b5a8f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\e0fa1ccaf57d6c3deb3f6647b25265e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\e0fa1ccaf57d6c3deb3f6647b25265e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\581febf912eaaf65a09efebfd77b0a56\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\581febf912eaaf65a09efebfd77b0a56\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\44a63fbc8b84f452a62dbe3835f1a9f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\44a63fbc8b84f452a62dbe3835f1a9f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\9d8f0610b5fd36640077b389543cc6e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\9d8f0610b5fd36640077b389543cc6e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\22c5ed957bfcf8693c6fb5aa0caf5fb0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\22c5ed957bfcf8693c6fb5aa0caf5fb0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\302c12901c8550f8290509ba74f379c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\302c12901c8550f8290509ba74f379c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\46b8a73718f71f1e5ac3840bd78eb90f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\46b8a73718f71f1e5ac3840bd78eb90f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\701e46c8a3c3df54dec865c4e9f9ad6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\701e46c8a3c3df54dec865c4e9f9ad6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\84056a963d5f1f7aac002a5106c22731\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\84056a963d5f1f7aac002a5106c22731\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\3669448f38d511f29d5a0669e54ce375\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\3669448f38d511f29d5a0669e54ce375\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\daaf0eeccfedda6fca4b3dc2db18a54b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\daaf0eeccfedda6fca4b3dc2db18a54b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\d43b36c39c3c225513bb2de83ffa3094\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\d43b36c39c3c225513bb2de83ffa3094\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\406a3399ddcb3098764492c54402f717\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\406a3399ddcb3098764492c54402f717\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\e132cf6b587c1825c0a913c6060f4536\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\e132cf6b587c1825c0a913c6060f4536\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\bf63a03cae1631f5633cc457fb4ae949\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\bf63a03cae1631f5633cc457fb4ae949\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\b329b459a413b1445bca4b9231df3d23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\guilherme\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\b329b459a413b1445bca4b9231df3d23\AndroidManifest.xml:20:5-44
+INJECTED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\GIT_GITHUB\tutorial_flutter_criptografia_RSA_SHA\android\app\src\main\AndroidManifest.xml

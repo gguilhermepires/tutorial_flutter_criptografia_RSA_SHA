@@ -1,0 +1,4 @@
+#Tue Mar 24 16:18:24 BRT 2020
+base.0=C\:\\GIT_GITHUB\\tutorial_flutter_criptografia_RSA_SHA\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
